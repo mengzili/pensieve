@@ -2,3 +2,4 @@ test/cooked_traces/
 test/results/
 test/__pycache__/
 test/video_size_*
+test_mod/
